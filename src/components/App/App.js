@@ -4,7 +4,7 @@ import Title from '../Title/Title';
 import Form from '../Form/Form';
 import Weather from '../Weather/Weather';
 
-const API_KEY = "8eceabea62da8bd886380d683289804e";
+const API_KEY = "your-api-key-get-from-openweathermap.org-here";
 
 class App extends Component {
   state = {
